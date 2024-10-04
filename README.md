@@ -12,3 +12,7 @@ Screenshots
 
 ![Screenshot 2024-08-08 124945](https://github.com/user-attachments/assets/3e75460e-7b02-4ed5-9c72-108a80b74d5b)
 
+![Rock-paper-scissors](https://github.com/user-attachments/assets/263975d2-34d8-4c9b-9e29-6771aea36607)
+
+![Rock-paper-scissors-2](https://github.com/user-attachments/assets/22506425-f551-4fd3-b5a3-3139de746c21)
+
